@@ -7,17 +7,17 @@
 
 
 **For selenium testing install the following dependecies.** 
-# NUnit framework for testing
+**NUnit framework for testing**
 dotnet add package NUnit
 
-# NUnit Test Adapter for discovering tests in VSCode
+**NUnit Test Adapter for discovering tests in VSCode**
 dotnet add package NUnit3TestAdapter
 
-# Selenium WebDriver package for controlling browsers
+**Selenium WebDriver package for controlling browsers**
 dotnet add package Selenium.WebDriver
 
-# Selenium Support package (provides WebDriverWait, ExpectedConditions, etc.)
+**Selenium Support package (provides WebDriverWait, ExpectedConditions, etc.)**
 dotnet add package Selenium.Support
 
-# Chrome WebDriver package for driving Chrome browser
+**Chrome WebDriver package for driving Chrome browser**
 dotnet add package Selenium.WebDriver.ChromeDriver
