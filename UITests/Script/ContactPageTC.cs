@@ -17,6 +17,8 @@ namespace UITests.Tests
             ChromeOptions options = new ChromeOptions();
             options.AddArgument("start-maximized");
             _driver = new ChromeDriver(options);
+
+            // Initialize HomePageMethods to interact with the homepage
             _homePageMethods = new HomePageMethods(_driver);
         }
 
@@ -41,9 +43,11 @@ namespace UITests.Tests
         [TearDown]
         public void TearDown()
         {
+            // Properly dispose of the WebDriver to release resources and close the browser
             if (_driver != null)
             {
-                _driver.Quit();
+                _driver.Quit();   // Close the browser
+                _driver.Dispose();  // Dispose of WebDriver resources
             }
         }
     }
