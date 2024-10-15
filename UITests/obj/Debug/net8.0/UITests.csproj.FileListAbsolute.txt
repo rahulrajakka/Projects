@@ -101,3 +101,4 @@
 /Users/user/Documents/Projects/UITests/obj/Debug/net8.0/UITests.genruntimeconfig.cache
 /Users/user/Documents/Projects/UITests/obj/Debug/net8.0/ref/UITests.dll
 /Users/user/Documents/Projects/UITests/bin/Debug/net8.0/SeleniumExtras.WaitHelpers.dll
+/Users/user/Documents/Projects/UITests/obj/Debug/net8.0/UITests.sourcelink.json
