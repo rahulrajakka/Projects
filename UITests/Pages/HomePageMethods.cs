@@ -6,13 +6,13 @@ using System;
 
 namespace UITests.Pages
 {
-    public class HomePageActions
+    public class HomePageMethods
     {
         private IWebDriver _driver;
         private WebDriverWait _wait;
 
         // Constructor to initialize WebDriver and WebDriverWait
-        public HomePageActions(IWebDriver driver)
+        public HomePageMethods(IWebDriver driver)
         {
             _driver = driver;
             _wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(20));
