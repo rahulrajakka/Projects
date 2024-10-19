@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/Projects/ApiTestProject/ApiTestProject.csproj": {}
+    "/Users/user/Downloads/Projects/ApiTestProject/ApiTestProject.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/Projects/ApiTestProject/ApiTestProject.csproj": {
+    "/Users/user/Downloads/Projects/ApiTestProject/ApiTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/Projects/ApiTestProject/ApiTestProject.csproj",
+        "projectUniqueName": "/Users/user/Downloads/Projects/ApiTestProject/ApiTestProject.csproj",
         "projectName": "ApiTestProject",
-        "projectPath": "/Users/user/Documents/Projects/ApiTestProject/ApiTestProject.csproj",
+        "projectPath": "/Users/user/Downloads/Projects/ApiTestProject/ApiTestProject.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/Projects/ApiTestProject/obj/",
+        "outputPath": "/Users/user/Downloads/Projects/ApiTestProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
@@ -47,9 +47,29 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.4, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.15, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.14, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[112.1.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.25.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -57,13 +77,11 @@
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.9.2, )"
+              "version": "[2.5.3, )"
             },
             "xunit.runner.visualstudio": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.8.2, )"
+              "version": "[2.5.3, )"
             }
           },
           "imports": [

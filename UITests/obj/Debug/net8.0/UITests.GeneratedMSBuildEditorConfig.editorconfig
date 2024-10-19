@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UITests
-build_property.ProjectDir = /Users/user/Documents/Projects/UITests/
+build_property.ProjectDir = /Users/user/Downloads/Projects/UITests/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

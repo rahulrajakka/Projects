@@ -1673,11 +1673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Documents/Projects/UITests/UITests.csproj",
+      "projectUniqueName": "/Users/user/Downloads/Projects/UITests/UITests.csproj",
       "projectName": "UITests",
-      "projectPath": "/Users/user/Documents/Projects/UITests/UITests.csproj",
+      "projectPath": "/Users/user/Downloads/Projects/UITests/UITests.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Documents/Projects/UITests/obj/",
+      "outputPath": "/Users/user/Downloads/Projects/UITests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dJ/E5VfHywM=",
+  "dgSpecHash": "TfAb34TnBW4=",
   "success": true,
-  "projectFilePath": "/Users/user/Documents/Projects/UITests/UITests.csproj",
+  "projectFilePath": "/Users/user/Downloads/Projects/UITests/UITests.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/user/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
