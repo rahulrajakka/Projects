@@ -51,6 +51,18 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.4, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.15, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.14, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.14.0, )"
