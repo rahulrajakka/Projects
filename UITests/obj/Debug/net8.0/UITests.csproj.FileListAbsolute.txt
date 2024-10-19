@@ -102,3 +102,7 @@
 /Users/user/Documents/Projects/UITests/obj/Debug/net8.0/ref/UITests.dll
 /Users/user/Documents/Projects/UITests/bin/Debug/net8.0/SeleniumExtras.WaitHelpers.dll
 /Users/user/Documents/Projects/UITests/obj/Debug/net8.0/UITests.sourcelink.json
+/Users/user/Documents/Projects/UITests/bin/Debug/net8.0/NLog.config
+/Users/user/Documents/Projects/UITests/bin/Debug/net8.0/NLog.dll
+/Users/user/Documents/Projects/UITests/bin/Debug/net8.0/NLog.Extensions.Logging.dll
+/Users/user/Documents/Projects/UITests/bin/Debug/net8.0/NLog.Web.AspNetCore.dll
