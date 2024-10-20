@@ -36,7 +36,9 @@ dotnet add package Selenium.WebDriver.ChromeDriver
    dotnet add package RestSharp
    
 **XUnit (for writing and running unit tests)**:
+
 dotnet add package xunit
+
 dotnet add package xunit.runner.visualstudio
 
 **NLog:** for both API and selenium
