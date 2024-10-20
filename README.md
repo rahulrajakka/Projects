@@ -43,6 +43,8 @@ dotnet add package xunit.runner.visualstudio
 
 **NLog:** for both API and selenium
 
-For logging in your test cases, you'll need NLog and its configuration package to manage the logging output (console or file).
+For logging in your test cases.
+
 dotnet add package NLog
+
 dotnet add package NLog.Config
