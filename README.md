@@ -6,7 +6,7 @@
 6. Once installed, confirm by running the following command = dotnet --version
 
 
-**For selenium testing install the following dependecies.** 
+###**Required Dependencies for selenium testing.** ###
 
 **NUnit framework for testing**
 
@@ -27,3 +27,20 @@ dotnet add package Selenium.Support
 **Chrome WebDriver package for driving Chrome browser**
 
 dotnet add package Selenium.WebDriver.ChromeDriver
+
+
+### ** Required Dependencies for API testing.** ####
+
+1. **RestSharp** (for handling HTTP requests)**:
+   
+   dotnet add package RestSharp
+   
+**XUnit (for writing and running unit tests)**:
+dotnet add package xunit
+dotnet add package xunit.runner.visualstudio
+
+**NLog:** for both API and selenium
+
+For logging in your test cases, you'll need NLog and its configuration package to manage the logging output (console or file).
+dotnet add package NLog
+dotnet add package NLog.Config
