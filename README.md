@@ -29,9 +29,9 @@ dotnet add package Selenium.Support
 dotnet add package Selenium.WebDriver.ChromeDriver
 
 
-### ** Required Dependencies for API testing.** ####
+###** Required Dependencies for API testing.** ###
 
-1. **RestSharp** (for handling HTTP requests)**:
+**RestSharp** (for handling HTTP requests)**:
    
    dotnet add package RestSharp
    
@@ -41,9 +41,7 @@ dotnet add package xunit
 
 dotnet add package xunit.runner.visualstudio
 
-**NLog:** for both API and selenium
-
-For logging in your test cases.
+**NLog (For logging in your test cases.) ** for both API and selenium
 
 dotnet add package NLog
 
