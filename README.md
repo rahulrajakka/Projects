@@ -29,7 +29,7 @@ dotnet add package Selenium.Support
 dotnet add package Selenium.WebDriver.ChromeDriver
 
 
-###** Required Dependencies for API testing.** ###
+###**Required Dependencies for API testing.** ###
 
 **RestSharp** (for handling HTTP requests)**:
    
